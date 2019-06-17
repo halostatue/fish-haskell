@@ -10,7 +10,7 @@ If `~/.ghcup/env` exists, the _effects_ of `~/.ghcup/env` will be applied to
 `$fish_user_paths` if not already present in `$PATH` or `$fish_user_paths`.
 Neither [bass][] nor [bax][] is used for this.
 
-[![Version](https://img.shields.io/github/tag/halostatue/fish-haskell.svg?label=Version)](https://github.com/halostatue/fish-haskell/releases)
+[![Version][]][]
 
 ## Installation
 
@@ -45,3 +45,6 @@ directory structure.
 [fish shell]: https://fishshell.com "friendly interactive shell"
 [fish]: https://github.com/fish-shell/fish-shell
 [Fisher]: https://github.com/jorgebucaran/fisher
+
+![Version]: https://img.shields.io/github/tag/halostatue/fish-haskell.svg?label=Version
+[![Version][]]: https://github.com/halostatue/fish-haskell/releases
