@@ -17,7 +17,11 @@ Neither [bass][] nor [bax][] is used for this.
 Install with [Fisher][] (recommended):
 
 ```fish
+# Fisher 3.x
 fisher add halostatue/fish-haskell
+
+# Fisher 4.0+
+fisher install halostatue/fish-haskell
 ```
 
 <details>
