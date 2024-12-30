@@ -1,9 +1,13 @@
 # halostatue/fish-haskell Changelog
 
+## v2.1.1 / 2024-12-30
+
+- Update Code of Conduct to Contributor Config 2.1.
+
 ## v2.1 / 2024-02-14
 
-- Fix a missing argument, reported by hua-end in [#1][]. Better late than never,
-  no?
+- Fix a missing argument, reported by hua-end in [#1][#1]. Better late than
+  never, no?
 
 ## v2.0 / 2021-04-18
 
