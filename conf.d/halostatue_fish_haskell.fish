@@ -1,3 +1,7 @@
+if ! test -d $HOME/.ghcup
+    return
+end
+
 set --local ghcup $HOME/.ghcup
 
 set --query GHCUP_INSTALL_BASE_PREFIX

@@ -1,5 +1,9 @@
 # halostatue/fish-haskell Changelog
 
+## v2.2.0 / 2025-01-01
+
+- fish-haskell will only be applied if `$HOME/.ghcup` exists.
+
 ## v2.1.1 / 2024-12-30
 
 - Update Code of Conduct to Contributor Config 2.1.
