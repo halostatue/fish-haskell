@@ -1,8 +1,8 @@
 # halostatue/fish-haskell
 
-[![Version][]](https://github.com/halostatue/fish-haskell/releases)
+[![Version][version]](https://github.com/halostatue/fish-haskell/releases)
 
-A plugin for [fish shell][fish shell] to enable Haskell programs installed with
+A plugin for [fish shell][shell] to enable Haskell programs installed with
 `cabal` or `stack` with support for `ghcup`.
 
 For each of the paths `$HOME/.cabal/bin`, `$HOME/.local/bin`, and
@@ -15,7 +15,7 @@ to `$PATH` in the order:
 
 ## Installation
 
-Install with [Fisher][Fisher]:
+Install with [Fisher][fisher]:
 
 ```fish
 fisher install halostatue/fish-haskell@v2
@@ -40,7 +40,7 @@ fisher install halostatue/fish-haskell@v2
 - [Code of Conduct](./CODE_OF_CONDUCT.md)
 
 [ghcup]: https://www.haskell.org/ghcup/
-[fish shell]: https://fishshell.com 'friendly interactive shell'
+[shell]: https://fishshell.com 'friendly interactive shell'
 [version]: https://img.shields.io/github/tag/halostatue/fish-haskell.svg?label=Version
 [fish]: https://github.com/fish-shell/fish-shell
 [fisher]: https://github.com/jorgebucaran/fisher
