@@ -1,5 +1,12 @@
 # halostatue/fish-haskell Changelog
 
+## 2.2.2 / 2025-01-15
+
+- Changed `conf.d/halostatue_fish_haskell.fish` to no longer exit early if
+  `$HOME/.ghcup` is no longer present. In addition to being incorrect, this
+  prevented `$HOME/.cabal/bin` from being added and prevented the definition of
+  the uninstall function.
+
 ## 2.2.1 / 2025-01-04
 
 - Added version information to comment tags.
