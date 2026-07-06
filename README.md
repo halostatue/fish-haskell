@@ -1,6 +1,7 @@
 # halostatue/fish-haskell
 
 [![Version][version]](https://github.com/halostatue/fish-haskell/releases)
+[![MIT](https://img.shields.io/badge/licence-MIT-blue?style=for-the-badge "MIT")](https://github.com/halostatue/fish-haskell/blob/main/LICENCE.md)
 
 A plugin for [fish shell][shell] to enable Haskell programs installed with
 `cabal` or `stack` with support for `ghcup`.
